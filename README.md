@@ -31,5 +31,5 @@ This project is an assignment for the ICT4302 - Intelligent Systems. It uses a n
    cd diabetes-prediction
 2.Create a virtual enviorment
 3. Install required libraries
-4. Load the dataset - Dataset Link :https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
-4.Run jupyter notebook and run the Diabetes.ipynb
+4. Load the dataset - Dataset Link :https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database.
+5.Run jupyter notebook and run the Diabetes.ipynb
